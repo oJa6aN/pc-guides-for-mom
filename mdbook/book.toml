@@ -4,3 +4,6 @@ language = "ja"
 multilingual = false
 src = "src"
 title = "お母さんのためのPCガイド"
+
+[output.html]
+site-url = "https://oja6an.github.io/pc-guides-for-mom/"
